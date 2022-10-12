@@ -6,4 +6,5 @@ pytz
 requests
 flask_pymongo
 dnspython
-pandas
+pandas 
+s
