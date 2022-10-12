@@ -7,4 +7,3 @@ requests
 flask_pymongo
 dnspython
 pandas
-dscdsv
